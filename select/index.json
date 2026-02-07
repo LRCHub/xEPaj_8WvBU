@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Moonthief",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-07T10:13:15.074740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Moonthief",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_Moonthief_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Moonthief",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/02_Moonthief_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Moonthief",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_Moonthief_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Moonthief",
+      "artist": "Kitani, Tatsuya",
+      "has_synced": true,
+      "path": "select/04_Moonthief_Kitani,_Tatsuya.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moonthief",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_Moonthief_キタニタツヤ.txt"
+    }
+  ]
+}
