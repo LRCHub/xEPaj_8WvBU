@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Moonthief",
   "base_artist": "キタニタツヤ",
-  "createdAt": "2026-03-06T08:28:24.882350Z",
+  "createdAt": "2026-04-02T04:50:56.345643Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -43,6 +43,15 @@
       "artist": "キタニタツヤ",
       "has_synced": false,
       "path": "select/pl_01_Moonthief_キタニタツヤ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Moonthief",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/localdb_01_Moonthief_キタニタツヤ.lrc",
+      "repo_name": "ReI0eJvTQf8"
     }
   ]
 }
